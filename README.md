@@ -9,7 +9,7 @@ Welcome to my central repository for tracking data structures, algorithms, and S
 Every problem solution is structured within its own directory containing the source implementation file and a comprehensive analysis of time and space complexity.
 
 ```text
-├── 1-TwoSum/
+├── 1-TwoSum/ 
 │   └── TwoSum.cpp
 ├── 1301-NumberofPathswithMaxScore/
 │   ├── README.md
